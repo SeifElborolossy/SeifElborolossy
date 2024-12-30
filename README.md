@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SeifElborolossy)](https://git.io/streak-stats)
+![SeifElborolossy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeifElborolossy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
