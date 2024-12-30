@@ -1,5 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeifElborolossy)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeifElborolossy&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeifElborolossy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeifElborolossy&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeifElborolossy&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SeifElborolossy)](https://git.io/streak-stats)
